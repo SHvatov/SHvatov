@@ -17,14 +17,16 @@
 
 ### Немного статистики :)
 
-<p align='left'>
-   <a href="https://github.com/SHvatov/github-readme-stats">
-     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHvatov&layout=compact"/></a>
-</p>
-
-<p align='left'>
-   <a href="https://github.com/SHvatov/github-readme-stats">
-     <img height=150 src="https://github-readme-stats.vercel.app/api?username=SHvatov&show_icons=true&theme=dracula"/></a>
-</p>
+<div align='center'>
+   <p align='left'>
+      <a href="https://github.com/SHvatov/github-readme-stats">
+        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHvatov&layout=compact"/></a>
+   </p>
+   
+   <p align='right'>
+      <a href="https://github.com/SHvatov/github-readme-stats">
+        <img height=150 src="https://github-readme-stats.vercel.app/api?username=SHvatov&show_icons=true&theme=dracula"/></a>
+   </p>
+</div>
 
 _P.S. обожаю древние языки - Шумерский, Аккадский, Fortran...._
